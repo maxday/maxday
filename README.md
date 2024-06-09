@@ -1,6 +1,7 @@
 Hi there 👋. 
 
-I'm Max from 🇨🇦, proof of concept ninja, author of [lambda-perf](https://maxday.github.io/lambda-perf) and pizza lover 🍕
+I'm Max from 🇨🇦, proof of concept ninja, author of [lambda-perf](https://maxday.github.io/lambda-perf) and pizza lover 🍕.
+I now live in Dublin 🇮🇪.
 
 You may also want to check my personal website: [maxday.dev](https://maxday.dev)
 
@@ -21,6 +22,7 @@ I've recently (Oct 2022) launched a Rust Live Coding YouTube channel, [check it 
 
 Here is a list of my recent talks:
 
+- 2023-11 🇺🇸 AWS re:Invent, Las Vegas, NV · [Benchmarking AWS Lambda cold starts](https://maxday.dev/talks/2023-11-29-benchmarking-aws-lambda-cold-starts/)
 - 2023-07 🇦🇹 Rust Meetup, Linz, AT · [Rust + Serverless = ❤️](https://maxday.dev/talks/2023-07-31-serverless-and-rust/)
 
 - 2023-07 🇺🇸 Serverless Office Hours, AWS Twitch Channel · [Benchmarking Lambda cold starts](https://maxday.dev/talks/2023-07-04-benchmarking-lambda-cold-starts/)
