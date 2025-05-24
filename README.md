@@ -22,23 +22,16 @@ I've recently (Oct 2022) launched a Rust Live Coding YouTube channel, [check it 
 
 Here is a list of my recent talks:
 
+- 2025-04 🇮🇪 Serverless Office Hours, AWS Twitch Channel · [Java Profiler Extension for AWS Lambda](https://maxday.dev/talks/2025-04-22-java-profiler-for-aws-lambda/))
 - 2023-11 🇺🇸 AWS re:Invent, Las Vegas, NV · [Benchmarking AWS Lambda cold starts](https://maxday.dev/talks/2023-11-29-benchmarking-aws-lambda-cold-starts/)
 - 2023-07 🇦🇹 Rust Meetup, Linz, AT · [Rust + Serverless = ❤️](https://maxday.dev/talks/2023-07-31-serverless-and-rust/)
-
 - 2023-07 🇺🇸 Serverless Office Hours, AWS Twitch Channel · [Benchmarking Lambda cold starts](https://maxday.dev/talks/2023-07-04-benchmarking-lambda-cold-starts/)
-
 - 2023-06 🇬🇧 Serverless Meetup, London, EN · [Inception! Use serverless to build a Lambda coldstart benchmark across all runtimes](https://maxday.dev/talks/2023-06-22-inception-use-serverless-to-benchmark-serverless/)
-
 - 2023-05 🇵🇱 Devoxx Poland, Krakow · [Serverless testing is NOT hard](https://maxday.dev/talks/2023-05-31-serverless-testing-is-not-hard/)
-
 - 2023-03 🇨🇦 CNCF Meetup @ Google, QC · [OpenTelemetry, buzz-word or real need?](https://maxday.dev/talks/2023-03-22-opentelemetry/)
-
 - 2023-03 🇺🇸 Duke University, NC · [Rust for AWS Lambda](https://maxday.dev/talks/2023-03-01-rust-for-aws-lambda/)
-
 - 2023-02 🇨🇦 Confoo, QC · [Serverless is NOT hard to test](https://maxday.dev/talks/2023-02-23-serverless-is-not-hard-to-test/)
-
 - 2022-10 🇺🇸 Dash, NY · [Building and Monitoring a Serverless App on AWS](https://maxday.dev/talks/2022-10-19-building-and-monitoring-a-serverless-app-on-aws/)
-
 - 2022-02 🇨🇦 Confoo, QC · [Build a Real-time Pizza Tracker with Serverless]((https://maxday.dev/talks/2022-02-24-build-a-real-time-pizza-tracker-with-serverless/))
 
 I'm always looking for new opportunities so feel free to contact me if you're looking for a speaker!  
