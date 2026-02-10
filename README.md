@@ -1,7 +1,7 @@
 Hi there 👋. 
 
 I'm Max from 🇨🇦, proof of concept ninja, author of [lambda-perf](https://maxday.github.io/lambda-perf) and pizza lover 🍕.
-I now live in Dublin 🇮🇪.
+I now live in Montreal 🇨🇦.
 
 You may also want to check my personal website: [maxday.dev](https://maxday.dev)
 
