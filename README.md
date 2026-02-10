@@ -22,6 +22,10 @@ I've recently (Oct 2022) launched a Rust Live Coding YouTube channel, [check it 
 
 Here is a list of my recent talks:
 
+- 2025-12 🇺🇸 AWS re:Invent, Las Vegas, NV · [CNS412 Refactoring Java applications to serverless](https://maxday.dev/talks/2025-12-03-refactoring-java-to-serverless/)
+- 2025-08 🇨🇦 CNCF Meetup, Montreal, Canada · [Short-Lived, Long Traced: Observability Deep Dive in Serverless](https://maxday.dev/talks/2025-09-23-opentelemetry-cncf-montreal/)
+- 2025-06 🇮🇪 CNCF Meetup, Dublin, Ireland · [Short-Lived, Long Traced: Observability Deep Dive in Serverless](https://maxday.dev/talks/2025-06-12-opentelemetry-cncf/)
+- 2025-05 🇺🇸 PyConUS, Pittsburgh, PA · [AWS Lambda <> Open source](https://maxday.dev/talks/2025-05-17-aws-lambda-python-open-source/)
 - 2025-04 🇮🇪 Serverless Office Hours, AWS Twitch Channel · [Java Profiler Extension for AWS Lambda](https://maxday.dev/talks/2025-04-22-java-profiler-for-aws-lambda/)
 - 2023-11 🇺🇸 AWS re:Invent, Las Vegas, NV · [Benchmarking AWS Lambda cold starts](https://maxday.dev/talks/2023-11-29-benchmarking-aws-lambda-cold-starts/)
 - 2023-07 🇦🇹 Rust Meetup, Linz, AT · [Rust + Serverless = ❤️](https://maxday.dev/talks/2023-07-31-serverless-and-rust/)
